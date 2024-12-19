@@ -1,4 +1,4 @@
-let raceCar = prompt(`Write whatever: `); //
+let raceCar = prompt(`Write whatever: `);
 let recorder = prompt(`Do another one: `);
 
 function reverser(str){
